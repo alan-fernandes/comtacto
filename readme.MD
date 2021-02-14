@@ -38,6 +38,10 @@ acesse o administrador com o usuário criado
 /admin
 ```
 
+##Visual
+Interface visual entregue pela Comtac
+https://xd.adobe.com/view/3b850df7-8e67-4b9d-a5c6-c332c5acdbc2-6ed6/screen/190e42c8-8d00-4551-bc12-f6b2f9d1c26f?fullscreen&hints=off
+
 
 
 
