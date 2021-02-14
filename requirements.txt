@@ -1,0 +1,2 @@
+pillow
+rest_framework
